@@ -3,7 +3,7 @@
 - 👀 I am interested in Software Engineering and Development.
 
 [![Gmail](https://img.shields.io/badge/eyad.hussein@ejust.edu.eg-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:eyad.hussein@ejust.edu.eg)](mailto:eyad.hussein@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-eyad-g-hussein-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eyad-g-hussein/)](https://www.linkedin.com/in/eyad-g-hussein/)
+[![Linkedin Badge](https://img.shields.io/badge/-eyadhussein-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eyad-g-hussein/)](https://www.linkedin.com/in/eyad-g-hussein/)
 ---
 
 <div align="center">

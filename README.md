@@ -12,8 +12,7 @@
   </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyad-hussein&theme=transparent&hide=Jupyter%20%Notebook&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![Eyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyad-hussein&show_icons=true&theme=transparent)
 
 
 ---
